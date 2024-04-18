@@ -12,7 +12,7 @@
 
 # Segundo exercício
 
-# horas = input("Que horas são? ")
+# horas = input("Que horas são? ") 
 # try:
 #      horas = int(horas)
 #      if 0 <= horas <= 11:
